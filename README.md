@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sowmya</h1>
-<h3 align="center">Tech enthusiast</h3>
+<h2 align="center">Tech enthusiast</h2>
 
 - 🔭 I’m currently working on **Blindness Detection using Retinal Fundus Images**
 
