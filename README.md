@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sowmya</h1>
-<h3 align="center">Passionate about web development, focused on building dynamic and user-friendly applications.</h3>
+<h3 align="center">Tech enthusiast</h3>
 
 - 🔭 I’m currently working on **Blindness Detection using Retinal Fundus Images**
 
