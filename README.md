@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sowmya</h1>
 <h2 align="center">Tech Enthusiast</h2>
 
-- 🔭 I’m currently working on **Blindness Detection using Retinal Fundus Images**
+- 🔭 I’m currently working on **Blindness Detection using Retinal Fundus Images (VisionAI)**
 
 - 🌱 I’m currently learning **full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js).**
 
