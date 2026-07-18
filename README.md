@@ -46,22 +46,24 @@ const sowmyaDevadiga = {
 <br/>
 
 ## 🚀 Featured Projects
-
-### 🎤 AI Mock Interview Platform
-AI-powered mock interview system built with the MERN stack featuring JWT authentication, personalized interview questions, and AI-based performance evaluation.
-
+ 
+<div align="center">
+### 👔 Employee Management System
+Full-stack MERN application for managing employee records, streamlining HR workflows with a clean, structured client-server architecture.
+ 
 <a href="https://github.com/sowmyadevadiga71/Employee-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Employee Management System" />
 </a>
-
-### 🫀 AI Organ Transplant Matching System
-FastAPI + PostgreSQL application that intelligently matches organ donors and recipients using compatibility scoring and ranking.
-
+<br/><br/>
+ 
+### 👁️ VisionAI — Multi-Disease Eye Detection
+Deep learning web app that detects Diabetic Retinopathy and Glaucoma from retinal images using a ResNet18 model, with Grad-CAM heatmaps to visually explain each prediction.
+ 
 <a href="https://github.com/sowmyadevadiga71/VisionAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="VisionAI" />
 </a>
+</div>
 
-> ℹ️ Pin cards now link to your actual repos: `Employee-Management-System` and `VisionAI`. Update the project titles/descriptions above if these repo names don't match the project they represent.
 
 <br/>
 
