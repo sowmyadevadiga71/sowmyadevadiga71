@@ -1,126 +1,193 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sowmya%20Devadiga&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sowmya%20Devadiga&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps;MERN+Stack+%2B+FastAPI+%2B+PostgreSQL;Exploring+LangChain+%26+LLM+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+MERN+%7C+FastAPI;Exploring+LLMs%2C+LangChain+and+AI+Agents;Always+Learning.+Always+Building."/>
 </a>
 
-<br/>
+<br>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=7dd3fc&color=1a1a2e)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=sowmyadevadiga71&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/sowmyadevadiga71?label=Followers&style=flat-square&color=7dd3fc" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=sowmyadevadiga71&label=Profile%20Views&color=7dd3fc&style=flat-square"/>
 
 </div>
 
-<br/>
+---
 
-## 🧠 Who I Am
+# 👋 Hi, I'm Sowmya Devadiga
 
-```typescript
-const sowmyaDevadiga = {
-  title: "Computer Science (AI & ML) Student | Full Stack Developer",
-  stack: [
-    "Python", "Java", "JavaScript", "TypeScript", "SQL",
-    "React.js", "Next.js", "Node.js", "Express.js", "FastAPI",
-    "PostgreSQL", "MongoDB", "MySQL",
-    "Scikit-learn", "Pandas", "NumPy", "LangChain (learning)"
+I'm a **Computer Science (AI & ML) student** passionate about developing intelligent software that solves real-world problems.
+
+I enjoy combining **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to build scalable applications with modern technologies.
+
+Currently, I'm focused on learning **Large Language Models (LLMs)**, **LangChain**, **RAG**, **AI Agents**, and advanced backend development.
+
+---
+
+## 🚀 About Me
+
+```ts
+const sowmya = {
+  role: "AI & Full Stack Developer",
+
+  education: "B.E. Computer Science (AI & ML)",
+
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "Backend Development",
+    "System Design"
   ],
-  launchedProjects: [
-    "AI Mock Interview Platform",
-    "AI Organ Transplant Matching System"
+
+  currentlyLearning: [
+    "LangChain",
+    "RAG",
+    "AI Agents",
+    "Docker",
+    "Cloud"
   ],
-  currentlyExploring: "LLM Applications & Prompt Engineering",
-  funFact: "I turn AI/ML concepts into real, usable full-stack products"
-} as const;
+
+  askMeAbout: [
+    "React",
+    "Node.js",
+    "FastAPI",
+    "PostgreSQL",
+    "MongoDB"
+  ]
+}
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,mysql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 AI Agents
+- 🧠 LangChain
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud Deployment
+- 🐳 Docker
+- 🏗️ System Design
+
+---
+
+# 🚀 Featured Projects
 
 ### 🎤 AI Mock Interview Platform
-AI-powered mock interview system built with the MERN stack featuring JWT authentication, personalized interview questions, and AI-based performance evaluation.
 
-<a href="https://github.com/sowmyadevadiga71/Employee-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
-</a>
+AI-powered interview preparation platform built using the **MERN Stack** with authentication, personalized interview sessions, AI-based evaluation, and performance tracking.
+
+---
 
 ### 🫀 AI Organ Transplant Matching System
-FastAPI + PostgreSQL application that intelligently matches organ donors and recipients using compatibility scoring and ranking.
 
-<a href="https://github.com/sowmyadevadiga71/VisionAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
-</a>
+A **FastAPI + PostgreSQL** application that intelligently matches donors and recipients using compatibility scoring and ranking algorithms.
 
-> ℹ️ Pin cards now link to your actual repos: `Employee-Management-System` and `VisionAI`. Update the project titles/descriptions above if these repo names don't match the project they represent.
+---
 
-<br/>
+### 👨‍💼 Employee Management System
 
-## 🛠️ Tech Stack
+A full-stack employee management application with authentication, CRUD operations, and database integration.
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css,mysql" />
+---
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
-
-**AI/ML & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,ollama,langchain,git,github,vscode,postman,docker" />
-
-<br/>
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="42%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=sowmyadevadiga71&theme=nord&border=7dd3fc&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak" width="60%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=sowmyadevadiga71&theme=nord&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
+# 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sowmyadevadiga71&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmyadevadiga71&theme=react-dark&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
-## 📈 Contribution Activity
+# 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmyadevadiga71&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" alt="Activity Graph" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sowmyadevadiga71&theme=nord&no-frame=true&no-bg=true"/>
+
 </div>
 
-<br/>
+---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sowmya-devadiga-80714a26a">
-  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
 <a href="mailto:sowmyadevadiga71@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+<img src="https://img.shields.io/badge/Gmail-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/sowmyadevadiga71">
+<img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%" />
+<div align="center">
+
+### 💡 *"Building intelligent software that creates real-world impact."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer"/>
+
+````
