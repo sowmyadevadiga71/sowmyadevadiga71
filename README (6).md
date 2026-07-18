@@ -47,12 +47,16 @@ const sowmyaDevadiga = {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🎤 AI Mock Interview Platform
 AI-powered mock interview system built with the MERN stack featuring JWT authentication, personalized interview questions, and AI-based performance evaluation.
 
 <a href="https://github.com/sowmyadevadiga71/Employee-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
 </a>
+
+<br/><br/>
 
 ### 🫀 AI Organ Transplant Matching System
 FastAPI + PostgreSQL application that intelligently matches organ donors and recipients using compatibility scoring and ranking.
@@ -61,32 +65,44 @@ FastAPI + PostgreSQL application that intelligently matches organ donors and rec
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
 </a>
 
+</div>
+
 > ℹ️ Pin cards now link to your actual repos: `Employee-Management-System` and `VisionAI`. Update the project titles/descriptions above if these repo names don't match the project they represent.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css,mysql" />
+
+<br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
 
+<br/><br/>
+
 **Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
 
+<br/><br/>
+
 **AI/ML & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode,postman,docker" />
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-7dd3fc?style=for-the-badge&logo=ollama&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logo=langchain&logoColor=black)
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-7dd3fc?style=for-the-badge&logo=ollama&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logo=langchain&logoColor=black" />
+
+</div>
 
 <br/>
 
@@ -94,8 +110,8 @@ FastAPI + PostgreSQL application that intelligently matches organ donors and rec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=sowmyadevadiga71&theme=nord&border=7dd3fc&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak" width="60%" />
 
