@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sowmya%20Devadiga&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sowmya%20Devadiga&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20(AI%20and%20ML)%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps;MERN+Stack+%2B+FastAPI+%2B+PostgreSQL;Exploring+LangChain+%26+LLM+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps;MERN+Stack+%2B+FastAPI+%2B+PostgreSQL;Exploring+LangChain+and+LLM+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,18 +44,18 @@ const sowmyaDevadiga = {
 ### 🎤 AI Mock Interview Platform
 AI-powered mock interview system built with the MERN stack featuring JWT authentication, personalized interview questions, and AI-based performance evaluation.
 
-<a href="https://github.com/sowmyadevadiga71/ai-mock-interview-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=ai-mock-interview-platform&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
+<a href="https://github.com/sowmyadevadiga71/Employee-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
 </a>
 
 ### 🫀 AI Organ Transplant Matching System
 FastAPI + PostgreSQL application that intelligently matches organ donors and recipients using compatibility scoring and ranking.
 
-<a href="https://github.com/sowmyadevadiga71/ai-organ-transplant-matching-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=ai-organ-transplant-matching-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
+<a href="https://github.com/sowmyadevadiga71/VisionAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
 </a>
 
-> ⚠️ Pin cards above assume repo names `ai-mock-interview-platform` and `ai-organ-transplant-matching-system`. Update these in the URLs if your actual repo names differ.
+> ℹ️ Pin cards now link to your actual repos: `Employee-Management-System` and `VisionAI`. Update the project titles/descriptions above if these repo names don't match the project they represent.
 
 <br/>
 
@@ -75,7 +75,12 @@ FastAPI + PostgreSQL application that intelligently matches organ donors and rec
 
 **AI/ML & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,ollama,langchain,git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode,postman,docker" />
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-7dd3fc?style=for-the-badge&logo=ollama&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logo=langchain&logoColor=black)
 
 <br/>
 
