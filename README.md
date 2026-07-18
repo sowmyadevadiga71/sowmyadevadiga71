@@ -14,7 +14,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sowmyadevadiga71&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/sowmyadevadiga71">
+  <img src="https://komarev.com/ghpvc/?username=sowmyadevadiga71&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
+</a>
 <a href="https://github.com/sowmyadevadiga71?tab=followers">
   <img src="https://img.shields.io/github/followers/sowmyadevadiga71?label=Followers&style=flat-square&color=7dd3fc" alt="Followers" />
 </a>
@@ -46,48 +48,62 @@ const sowmyaDevadiga = {
 <br/>
 
 ## 🚀 Featured Projects
- 
+
 <div align="center">
-### 👔 Employee Management System
-Full-stack MERN application for managing employee records, streamlining HR workflows with a clean, structured client-server architecture.
- 
+
+<h3>👔 Employee Management System</h3>
+<p>Full-stack MERN application for managing employee records, streamlining HR workflows with a clean, structured client-server architecture.</p>
+
 <a href="https://github.com/sowmyadevadiga71/Employee-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=Employee-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Employee Management System" />
 </a>
+
 <br/><br/>
- 
-### 👁️ VisionAI — Multi-Disease Eye Detection
-Deep learning web app that detects Diabetic Retinopathy and Glaucoma from retinal images using a ResNet18 model, with Grad-CAM heatmaps to visually explain each prediction.
- 
+
+<h3>👁️ VisionAI — Multi-Disease Eye Detection</h3>
+<p>Deep learning web app that detects Diabetic Retinopathy and Glaucoma from retinal images using a ResNet18 model, with Grad-CAM heatmaps to visually explain each prediction.</p>
+
 <a href="https://github.com/sowmyadevadiga71/VisionAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="VisionAI" />
 </a>
+
 </div>
- 
+
+
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+<strong>Languages</strong>
 <br/>
 <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css,mysql" />
 
-**Frontend**
+<br/><br/>
+
+<strong>Frontend</strong>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
 
-**Backend & Databases**
+<br/><br/>
+
+<strong>Backend &amp; Databases</strong>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
 
-**AI/ML & Tools**
+<br/><br/>
+
+<strong>AI/ML &amp; Tools</strong>
 <br/>
 <img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode,postman,docker" />
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-7dd3fc?style=for-the-badge&logo=ollama&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logo=langchain&logoColor=black)
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-7dd3fc?style=for-the-badge&logo=ollama&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge&logo=langchain&logoColor=black" />
+
+</div>
 
 <br/>
 
@@ -95,8 +111,8 @@ Deep learning web app that detects Diabetic Retinopathy and Glaucoma from retina
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=sowmyadevadiga71&theme=nord&border=7dd3fc&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak" width="60%" />
 
