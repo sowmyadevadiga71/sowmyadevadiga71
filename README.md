@@ -1,19 +1,126 @@
-<h1 align="center">Hi 👋, I'm sowmya</h1>
-<h2 align="center">Tech Enthusiast</h2>
+<div align="center">
 
-- 🔭 I’m currently working on **Blindness Detection using Retinal Fundus Images (VisionAI)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sowmya%20Devadiga&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-- 🌱 I’m currently learning **full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js).**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full+Stack+Apps;MERN+Stack+%2B+FastAPI+%2B+PostgreSQL;Exploring+LangChain+%26+LLM+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sowmyadevadiga71](https://github.com/sowmyadevadiga71)
+<br/>
 
-- 📫 How to reach me **sowmyadevadiga71@gmail.com**
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=7dd3fc&color=1a1a2e)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sowmya-devadiga-80714a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowmya-devadiga-80714a26a" height="30" width="40" /></a>
-<a href="https://instagram.com/somi_devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somi_devadiga" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sowmyadevadiga71&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/sowmyadevadiga71?label=Followers&style=flat-square&color=7dd3fc" alt="Followers" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
+
+<br/>
+
+## 🧠 Who I Am
+
+```typescript
+const sowmyaDevadiga = {
+  title: "Computer Science (AI & ML) Student | Full Stack Developer",
+  stack: [
+    "Python", "Java", "JavaScript", "TypeScript", "SQL",
+    "React.js", "Next.js", "Node.js", "Express.js", "FastAPI",
+    "PostgreSQL", "MongoDB", "MySQL",
+    "Scikit-learn", "Pandas", "NumPy", "LangChain (learning)"
+  ],
+  launchedProjects: [
+    "AI Mock Interview Platform",
+    "AI Organ Transplant Matching System"
+  ],
+  currentlyExploring: "LLM Applications & Prompt Engineering",
+  funFact: "I turn AI/ML concepts into real, usable full-stack products"
+} as const;
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🎤 AI Mock Interview Platform
+AI-powered mock interview system built with the MERN stack featuring JWT authentication, personalized interview questions, and AI-based performance evaluation.
+
+<a href="https://github.com/sowmyadevadiga71/ai-mock-interview-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=ai-mock-interview-platform&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Mock Interview Platform" />
+</a>
+
+### 🫀 AI Organ Transplant Matching System
+FastAPI + PostgreSQL application that intelligently matches organ donors and recipients using compatibility scoring and ranking.
+
+<a href="https://github.com/sowmyadevadiga71/ai-organ-transplant-matching-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=ai-organ-transplant-matching-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Organ Transplant Matching System" />
+</a>
+
+> ⚠️ Pin cards above assume repo names `ai-mock-interview-platform` and `ai-organ-transplant-matching-system`. Update these in the URLs if your actual repo names differ.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css,mysql" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
+
+**AI/ML & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,ollama,langchain,git,github,vscode,postman,docker" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sowmyadevadiga71&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyadevadiga71&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="42%" />
+
+<img src="https://streak-stats.demolab.com?user=sowmyadevadiga71&theme=nord&border=7dd3fc&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak" width="60%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sowmyadevadiga71&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmyadevadiga71&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" alt="Activity Graph" width="95%" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sowmya-devadiga-80714a26a">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+<a href="mailto:sowmyadevadiga71@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%" />
