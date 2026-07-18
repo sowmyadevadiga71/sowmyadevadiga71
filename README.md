@@ -63,8 +63,7 @@ Deep learning web app that detects Diabetic Retinopathy and Glaucoma from retina
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmyadevadiga71&repo=VisionAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="VisionAI" />
 </a>
 </div>
-
-
+ 
 <br/>
 
 ## 🛠️ Tech Stack
